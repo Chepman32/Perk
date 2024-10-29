@@ -1,0 +1,15 @@
+export enum Variables {
+  JWT = 'jwt',
+  NOTIFICATION_TOKEN = 'notificatioToken',
+  SIGN_IN = 'signIn',
+  LOGOUT = 'Logout',
+  INITIALIZE = 'Inittialize',
+  BRAND = 'Brand',
+  MODEL = 'Model',
+  GENERATION = 'Generation',
+  CONFIGURATIONS = 'Configurations',
+  MODIFICATIONS = 'Modifications',
+  YEAR = 'Year',
+  COLORS = 'Colors',
+  UPDATE_USER = 'UpdateUser',
+}
